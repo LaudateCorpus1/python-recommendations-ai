@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/googleapis/python-recommendations-ai/compare/v0.5.1...v0.6.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#117](https://github.com/googleapis/python-recommendations-ai/issues/117)) ([40e4a78](https://github.com/googleapis/python-recommendations-ai/commit/40e4a783868ad748de36df77a3bca4c320bae41a))
+
 ### [0.5.1](https://www.github.com/googleapis/python-recommendations-ai/compare/v0.5.0...v0.5.1) (2021-11-01)
 
 
